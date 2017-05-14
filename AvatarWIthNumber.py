@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#encoding: utf-8
+# coding: utf-8
 
 # 在图右上角添加数字
 from PIL import Image, ImageDraw, ImageFont
